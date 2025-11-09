@@ -26,10 +26,3 @@
 - Го прикажува името, датум, време, просторија, статус и преостанато време (доколку не е поминат).
 
 <img width="407" height="849" alt="Screenshot 2025-11-09 185944" src="https://github.com/user-attachments/assets/9ae6fb9c-1f3f-420e-a463-458bbbec04e8" />
-
----
-
-## Screenshots
-
-Сите скриншоти се во папката `screenshots/`.
-
