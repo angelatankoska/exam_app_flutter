@@ -1,16 +1,35 @@
-# exam_app
+# Exam App (Flutter)
 
-A new Flutter project.
+Оваа апликација овозможува преглед на распоред за испити за даден студентски индекс, визуелен приказ на сите детални информации за секој испит (име на предмет, датум, време, просторија) и интерактивен начин за следење на преостанатото време до испитот.
 
-## Getting Started
+## Функционалности
 
-This project is a starting point for a Flutter application.
+- Преглед на сите испити за даден студентски индекс во скролабилна листа,
+- Детален приказ за секој испит со дизајн и икони во боја,
+- Автоматска пресметка и приказ на преостанато време до секој испит или покажува дали испитот е завршен,
+- Вкупен број активни испити на дното на екранот.
 
-A few resources to get you started if this is your first Flutter project:
+## Екрани во апликацијата
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1. Почетен екран: Распоред за испити
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Листа со сите испити, секој во посебнс картичка.
+- Секој испит има ознака дали е „Завршен“ или колку време останува до него.
+
+<img width="407" height="864" alt="Screenshot 2025-11-09 185913" src="https://github.com/user-attachments/assets/efc51728-3f2c-4594-b1f8-60027449c31b" />
+
+---
+
+### 2. Детали за испит (Идни испит)
+
+- Детален приказ за избраниот испит.
+- Го прикажува името, датум, време, просторија, статус и преостанато време (доколку не е поминат).
+
+<img width="407" height="849" alt="Screenshot 2025-11-09 185944" src="https://github.com/user-attachments/assets/9ae6fb9c-1f3f-420e-a463-458bbbec04e8" />
+
+---
+
+## Screenshots
+
+Сите скриншоти се во папката `screenshots/`.
+
